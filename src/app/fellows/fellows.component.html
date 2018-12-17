@@ -1,0 +1,8 @@
+<div>
+  <ul class="fellows">
+    <li *ngFor="let fellow of fellows | async">
+      <p><strong>Fellow ID: </strong>{{fellow.id}}</p>
+      <p><strong>Name: </strong>{{fellow.name}}</p>
+    </li>
+  </ul>
+</div>
