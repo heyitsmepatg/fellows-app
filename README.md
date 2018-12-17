@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# fellows-app
-Simple ng app to show connection of Angular front-end to Node backend
-=======
 # FellowsApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.6.
